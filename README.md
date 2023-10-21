@@ -1,4 +1,4 @@
-# MiPrimerRepositorio
+# INTRODUCCIÓN A GIT
 Esto es mi primer repositorio en GitHub
 
 ## Sección 01
