@@ -33,3 +33,7 @@ El  enlace para este repositorio es [mi repositorio](https://github.com/CarlosJr
 Ahora agrego una imagen del software: git
 
 ![git](figuras/descarga.png)
+
+## Última sección
+
+Este es el último.
