@@ -16,3 +16,14 @@ $$x \sim N(0, \sigma^2)$$
 ## Sección 02
 
 Texto de prueba
+
+## Sección 03
+
+Este es el formato de una tabla
+
+|Id | Profession | Age |
+|-- | -- | -- |
+|1 | Statistician | 25 |
+|2 | Writer | 32 |
+
+
